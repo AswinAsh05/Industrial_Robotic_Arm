@@ -22,11 +22,11 @@ A motion simulation of the robotic arm joints created using **Fusion 360 Joint D
 
 ## ⚙️ Features
 
-• Multi-joint industrial robotic arm design  
-• Revolute joints with defined motion limits  
-• Mechanical gripper end-effector  
-• Joint drive simulation for motion testing  
-• Modular components designed for potential **3D printing**
+- Multi-joint industrial robotic arm design  
+- Revolute joints with defined motion limits  
+- Mechanical gripper end-effector  
+- Joint drive simulation for motion testing  
+- Modular components designed for potential **3D printing**
 
 ---
 
