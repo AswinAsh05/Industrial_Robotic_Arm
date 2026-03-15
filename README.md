@@ -8,7 +8,7 @@ This project focuses on understanding **robotic arm kinematics, mechanical assem
 
 ## 📸 Preview
 
-![Robotic Arm](images/robotic_arm_render.png)
+![Robotic Arm](images/Robotic_Arm.png)
 
 ---
 
