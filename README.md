@@ -61,3 +61,8 @@ Recommended settings:
 - Material: **PLA / PETG**
 - Layer height: **0.2 mm**
 - Infill: **20–40%**
+
+---
+
+## License
+This project is licensed under the MIT License.
