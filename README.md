@@ -62,6 +62,9 @@ Recommended settings:
 - Layer height: **0.2 mm**
 - Infill: **20–40%**
 
+## Drawing and BOM-Bill Of Material
+
+![Robotic Arm](Images/Drawing_BOM.png)
 ---
 
 ## License
